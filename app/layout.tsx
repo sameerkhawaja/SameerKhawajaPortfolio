@@ -39,7 +39,7 @@ export const metadata: Metadata = {
         },
     },
     twitter: {
-        title: "sameerkhawaja",
+        title: "Sameer Khawaja",
         card: "summary_large_image",
     },
     icons: {
